@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="devUrl" value="http://localhost" />
+		<Parameter name="prodUrl" value="https://reqres.in" />
+	</TestRunParameters>
+</RunSettings>
